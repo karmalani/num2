@@ -1,5 +1,6 @@
 # das ist das perfekte programm
-
+# Numerik 2 Blatt 1
+# Sarah Müller, Daniel Banov
 # import numpy für Betragsfunktion
 import numpy as np
 
