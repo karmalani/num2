@@ -1,6 +1,11 @@
 # Daniel Banov, Sarah Müller
 # Blatt 2
 # nimm Rechtschreibfehler bitte nicht übel, es ist 05:20
+
+"""
+also mein plan war ja eigentlich pro rechtschreibfehler nen punkt abzuziehen... aber na gut...
+passt alles 4/4
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
